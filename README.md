@@ -33,7 +33,7 @@ Ready to explore VirtualR? Follow these simple steps to set it up on your local 
    ```
 
 ## 🎭 Live Demo
-Experience **VirtualR** in action! 👉 [Live Demo](#)
+Experience **VirtualR** in action! 👉 [[Live Demo](https://react-tailwind-css-two.vercel.app/)](#)
 
 ## 🔮 Future Enhancements
 - ✨ Add smooth animations & transitions
